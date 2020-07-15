@@ -27,7 +27,6 @@ the [documentation directory](doc/) for information about compilation.
 * Better overhangs (add perimeters if needed, slice them in opposite direction each layer).
 * Brim rework: many more options (inside, outside only, 'ears', per object)
 * Some new seam options, to help hide them.
-* built-in calibration prints
 * built-in object generation script
 * Can join perimeters into a big one to avoid travel moves.
 * Many other little options and corrections (like the filled concentric pattern).
